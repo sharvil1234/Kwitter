@@ -69,5 +69,5 @@ function updateLike(message_id) {
 function logout() {
       localStorage.removeItem("user_name");
       localStorage.removeItem("room_name");
-      window.location = "index.html";
+      window.location = "https://sharvil1234.github.io/Kwitter/";
 }
